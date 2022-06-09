@@ -3,13 +3,13 @@
 # Features
 > fast & easy 
 
-> generate a valid card
+> [&] Generate a valid card
 
-> generate multi valid card
+> [&] Generate multi valid card
 
-> Credit Card Valid Checker 
+> [&] Credit Card Valid Checker 
 
-> Without limit & Free
+> [&] Without limit & Free
 
 
 # Installation
