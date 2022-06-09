@@ -1,7 +1,7 @@
 # R-CC
 [-] Remax CC Tools
 # Features
-> fast & easy 
+> [&] Fast & easy 
 
 > [&] Generate a valid card
 
